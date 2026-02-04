@@ -1,1 +1,18 @@
-
+Day 1- Java basics
+Topics Learned:
+What is java
+Features of Java
+JVM,JRE,JDK
+Variables
+Data types
+practice:
+-simple java program
+-variable declaration
+-if-else program
+-for loop
+Notes:
+Java is an object oriented programming language.
+it is platform independent.
+used in web applications, mobile apps ,and enterprise software.
+goal:
+understand basics of java clearly and practice daily
